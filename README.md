@@ -11,7 +11,9 @@
 git 提交和推送方法
 -------------
 
+```
 cd /PATH/to/Your/SRCS
 git add --all
-git commit -m "$(date)"	# 双手无力,使用系统默认时间做TAG
+git commit -m "$(date)"		# 双手无力,使用系统默认时间做TAG
 git push
+```
